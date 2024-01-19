@@ -1,1 +1,1 @@
-# .github
+Proyek internal Gereja Bethel Indonesia Cibubur Raya bertujuan untuk memperkuat dan meningkatkan layanan gereja secara lokal. Dalam lingkungan gereja, proyek ini mungkin mencakup pengembangan infrastruktur teknologi, penyempurnaan proses administratif, atau inisiatif lainnya
